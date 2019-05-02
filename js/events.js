@@ -15,6 +15,9 @@ function pressIt(){
     alert('g was pressed')
   })
 }
+function submitIt(){
+  $('')
+}
 $(document).ready(function(){
 
 // call functions here
